@@ -17,4 +17,5 @@ body {
 .child {
   width: 20em;
   flex-grow: 1;
+  text-align: left;
 }
